@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    font-family: Oswald;
+}
+
+#container{
+    width: 1056px;
+    margin: auto;
+}
+
+#navbar{
+    background-color: #318bda;
+    padding: 0.6% 0;
+}
+
+.logo_1{
+    color: white;
+    font-size: 36pt;
+    margin-left: 14.9%;
+    text-decoration: none;
+}
+
+.recit{
+    color: white;
+    font-size: 16pt;
+    margin-left: 1.3%;
+    text-decoration: none;
+}
+
+.menu_1{
+    color: white;
+    font-size: 16pt;
+    margin-left: 20%;
+    padding: 0 2.4%;
+    text-decoration: none;
+}
+
+.menu_2{
+    color: white;
+    font-size: 16pt;
+    /* margin-left: 5.1%; */
+    padding: 0 2.4%;
+    text-decoration: none;
+}
+
+.menu_3{
+    color: white;
+    font-size: 16pt;
+    margin-left: 1.3%;
+    padding: 0 2.4%;
+    text-decoration: none;
+    background-color: #ec9700;
+    border-radius: 25px;
+    /* font-family: YuGothic; */
+}
+/* 
+.menu1:hover,.menu2:hover,.menu3:hover{
+    background-color: #ec9700;
+    padding: 0 2.4%;
+    border-radius: 25px;
+} */
+
+
+.scroll_1{
+    color: white;
+    background-color: #ec9700;
+    padding: 0 2.4%;
+    border-radius: 25px;
+    float: inline-end;
+    margin: 0% 45% ;
+}
+
+#container2{
+    background-image: url(/bg_002.png);
+    background-size: cover;
+}
+
+.bg {
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+    margin: 3% 27% 0;
+}
